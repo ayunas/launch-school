@@ -75,7 +75,9 @@ function isNotANumber(input) {
 
 console.log(isNotANumber(NaN));
 
-
+function negativeZero(num) {
+  return 1 / num === -Infinity;
+}
 
 
 
