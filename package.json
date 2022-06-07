@@ -1,6 +1,7 @@
 {
   "name": "launch-school",
   "version": "1.0.0",
+  "type" : "module",
   "description": "",
   "main": "age.js",
   "scripts": {
